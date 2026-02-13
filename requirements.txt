@@ -1,0 +1,7 @@
+fastmcp<3
+playwright==1.41.0
+trafilatura
+asyncio
+lxml[html_clean]
+python-dotenv
+apify
