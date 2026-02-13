@@ -28,7 +28,7 @@ Displays all currently active monitoring tasks managed by this **professional-gr
 ### `clear_watchdogs`
 Stops all active monitoring tasks and wipes the persistence store.
 
-## 💻 Local Setup (Trae IDE)
+## 💻 Local Setup
 
 1.  **Clone the repository** to your local machine.
 2.  **Initialize the environment**:
@@ -43,7 +43,7 @@ Stops all active monitoring tasks and wipes the persistence store.
     .\venv\Scripts\python.exe tritium_watcher.py
     ```
 
-## ☁️ Deployment (Apify)
+## ☁️ Deployment 
 
 This tool is optimized for deployment as an Apify Actor:
 1.  Push the code to GitHub.
@@ -68,9 +68,9 @@ This **professional-grade research tool** is designed to meet the requirements f
 
 ### Support
 For any issues, feature requests, or security concerns, please reach out through our support channels:
-- **Support Link**: [Submit an Issue](https://github.com/your-org/tritium-watcher/issues)
+- **Support Link**: [Submit an Issue](https://github.com/Aarav482011/TRITIUM-Watcher/issues)
 - **Email**: sparklabs2011@gmail.com
-- **Status Page**: [System Status](https://status.tritium-research.com)
+- **Status Page**: [GitHub Status](https://github.com/Aarav482011/TRITIUM-Watcher)
 
 ### Legal
 - **Privacy Policy**: [Read our Privacy Policy](PRIVACY.md)
