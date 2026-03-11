@@ -78,4 +78,4 @@ For any issues, feature requests, or security concerns, please reach out through
 - **Contact**: For business inquiries, contact sparklabs2011@gmail.com
 
 ---
-*Developed as a professional-grade research tool for advanced web intelligence.*
+*Note:STILL IN DEVELOPMENT PHASE AND IMPROVING RAPIDLY*
