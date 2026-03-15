@@ -1,7 +1,7 @@
 # 🛰 TRITIUM-Watcher
 
 <div align="center">
-  <img src="assets/tritium-banner.png" alt="TRITIUM-Watcher Banner" width="100%">
+  <img src="assets/tritium-banner-dark.png" alt="TRITIUM-Watcher Banner" width="100%">
   
 
 **TRITIUM-Watcher** is a **professional-grade research tool** designed for autonomous web monitoring, smart content extraction, and real-time alerts. It transforms your AI assistant into a proactive research agent capable of watching the web for you, distilling complex information, and providing visual evidence when specific events occur.
