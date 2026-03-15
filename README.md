@@ -24,7 +24,7 @@ TRITIUM-Watcher is free for personal, educational, and non-commercial use. If yo
 
 ## Architecture
 <div align="center">
-  <img src="assets/tritium_architecture_diagram.svg" alt="TRITIUM-Watcher Banner" width="200%">
+  <img src="assets/tritium_architecture_diagram.svg" alt="TRITIUM-Watcher Banner" width="100%">
 
 
 ## ⚡ Quick Start
