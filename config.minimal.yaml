@@ -1,0 +1,26 @@
+# Minimal TRITIUM-Watcher Configuration
+# Copy this to config.yaml in your project root
+
+# Basic scraping settings
+scraping:
+  timeout: 30
+  respect_robots_txt: true
+
+# Watchdog settings
+watchdogs:
+  default_interval: 3600  # Check every hour
+  max_concurrent: 20
+
+# Screenshot settings
+screenshots:
+  enabled: true
+  save_directory: "./screenshots"
+
+# Where to store watchdog data
+persistence:
+  backend: "local"
+  local_path: "./tritium_data.json"
+
+# Alert log location
+alerts:
+  log_file: "WATCHDOG_LOG.md"
