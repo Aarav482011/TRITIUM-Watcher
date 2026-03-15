@@ -75,7 +75,7 @@ For any issues, feature requests, or security concerns, please reach out through
 ### Legal
 - **Privacy Policy**: [Read our Privacy Policy](PRIVACY.md)
 - **Terms of Service**: [Read our Terms of Service](TERMS.md)
-- **Contact**: For business inquiries, contact sparklabs2011@gmail.com
+- **Contact**: For business inquiries, contact www.forestritium.com@gmail.com
 
 ---
 *Note:STILL IN DEVELOPMENT PHASE AND IMPROVING RAPIDLY*
