@@ -6,6 +6,15 @@
 
 **TRITIUM-Watcher** is a **professional-grade research tool** designed for autonomous web monitoring, smart content extraction, and real-time alerts. It transforms your AI assistant into a proactive research agent capable of watching the web for you, distilling complex information, and providing visual evidence when specific events occur.
 
+[![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
+  [![Python](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
+  [![FastMCP](https://img.shields.io/badge/FastMCP-v2-green.svg)](https://github.com/jlowin/fastmcp)
+  [![GitHub stars](https://img.shields.io/github/stars/Aarav482011/TRITIUM-Watcher?style=social)](https://github.com/Aarav482011/TRITIUM-Watcher/stargazers)
+  
+  [Features](#-core-capabilities) • [Installation](#-local-setup) • [Usage](#-available-research-tools) • [Deployment](#️-deployment)
+</div>
+
+
 ## 🚀 Core Capabilities
 
 -   **Smart Distillation**: Bypasses "web noise" (ads, headers, footers) to extract the most statistically significant data points from any URL using advanced text analysis.
