@@ -22,6 +22,9 @@
 
 TRITIUM-Watcher is free for personal, educational, and non-commercial use. If you're using it for business purposes, please [contact us](mailto:www.forestritium.com@gmail.com) for a commercial license.
 
+## Architecture
+
+
 
 ## ⚡ Quick Start
 
