@@ -6,13 +6,21 @@
 
 **TRITIUM-Watcher** is a **professional-grade research tool** designed for autonomous web monitoring, smart content extraction, and real-time alerts. It transforms your AI assistant into a proactive research agent capable of watching the web for you, distilling complex information, and providing visual evidence when specific events occur.
 
-[![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
+[![License: PolyForm Noncommercial](https://img.shields.io/badge/License-PolyForm%20Noncommercial-blue.svg)](LICENSE)
+[![Commercial License](https://img.shields.io/badge/Commercial-Contact%20for%20License-orange.svg)](LICENSE-COMMERCIAL.md)
   [![Python](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
   [![FastMCP](https://img.shields.io/badge/FastMCP-v2-green.svg)](https://github.com/jlowin/fastmcp)
   [![GitHub stars](https://img.shields.io/github/stars/Aarav482011/TRITIUM-Watcher?style=social)](https://github.com/Aarav482011/TRITIUM-Watcher/stargazers)
   
   [Features](#-core-capabilities) • [Installation](#-local-setup) • [Usage](#-available-research-tools) • [Deployment](#️-deployment)
 </div>
+
+## 📜 License
+
+- **Free for Personal Use**: PolyForm Noncommercial License 1.0.0
+- **Commercial Use**: [Contact us](LICENSE-COMMERCIAL.md) for pricing
+
+TRITIUM-Watcher is free for personal, educational, and non-commercial use. If you're using it for business purposes, please [contact us](mailto:www.forestritium.com@gmail.com) for a commercial license.
 
 
 ## 🚀 Core Capabilities
