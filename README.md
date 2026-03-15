@@ -23,6 +23,154 @@
 TRITIUM-Watcher is free for personal, educational, and non-commercial use. If you're using it for business purposes, please [contact us](mailto:www.forestritium.com@gmail.com) for a commercial license.
 
 
+## ⚡ Quick Start
+
+Get TRITIUM-Watcher running in under 5 minutes.
+
+### 📦 Installation
+
+**Step 1: Clone and navigate**
+```bash
+git clone https://github.com/Aarav482011/TRITIUM-Watcher.git
+cd TRITIUM-Watcher
+```
+
+**Step 2: Create virtual environment**
+```bash
+# Windows
+python -m venv venv
+.\venv\Scripts\activate
+
+# macOS/Linux
+python3 -m venv venv
+source venv/bin/activate
+```
+
+**Step 3: Install dependencies**
+```bash
+pip install -r requirements.txt
+playwright install chromium
+```
+
+**Step 4: Launch**
+```bash
+python tritium_watcher.py
+```
+
+✅ **You're ready!** TRITIUM-Watcher is now running as an MCP server.
+
+---
+
+### 🎯 Try It Out
+
+#### **Use Case 1: Track Competitor Price Changes**
+```
+Set up a watchdog on https://competitor.com/pricing for keywords: discount, sale, price drop, new plan
+```
+→ Get instant alerts when they change pricing
+
+#### **Use Case 2: Monitor News for Your Industry**
+```
+Set up a watchdog on https://techcrunch.com/ai for keywords: regulation, breakthrough, funding round
+```
+→ Stay ahead of industry developments
+
+#### **Use Case 3: Track Product Launches**
+```
+Set up a watchdog on https://apple.com for keywords: available now, pre-order, shipping
+```
+→ Never miss a launch announcement
+
+#### **Use Case 4: Extract Key Points from Research Papers**
+```
+Use distill_essence on https://arxiv.org/abs/2024.12345
+```
+→ Get the 5 most important insights instantly
+
+---
+
+### 📊 How to View Results
+
+**Check your alerts:**
+```bash
+# Open the watchdog log
+cat WATCHDOG_LOG.md
+
+# Or open it in your browser/editor
+```
+
+**What you'll see:**
+- 📸 **Screenshots** with matched keywords highlighted in red
+- 🕐 **Timestamps** of when matches occurred
+- 🔗 **Direct links** to the pages
+
+---
+
+### 🛠️ Common Commands
+
+| What You Want | Command Example |
+|--------------|----------------|
+| Extract insights | `distill_essence("https://example.com")` |
+| Start monitoring | `set_watchdog("https://site.com", "keyword1, keyword2")` |
+| List watchdogs | `list_watchdogs()` |
+| Stop all watchdogs | `clear_watchdogs()` |
+
+---
+
+### 🚨 Troubleshooting
+
+<details>
+<summary><b>❌ Playwright won't install</b></summary>
+```bash
+# Try with dependencies
+playwright install chromium --with-deps
+
+# Or use system chromium (Linux)
+sudo apt install chromium-browser
+```
+</details>
+
+<details>
+<summary><b>❌ Port already in use</b></summary>
+```bash
+# Windows
+taskkill /F /IM python.exe
+
+# macOS/Linux  
+pkill -f tritium_watcher
+
+# Then restart
+python tritium_watcher.py
+```
+</details>
+
+<details>
+<summary><b>❌ Module not found errors</b></summary>
+```bash
+# Make sure virtual environment is activated
+# Windows: .\venv\Scripts\activate
+# Mac/Linux: source venv/bin/activate
+
+# Reinstall requirements
+pip install -r requirements.txt --upgrade
+```
+</details>
+
+**Still stuck?** [Open an issue](https://github.com/Aarav482011/TRITIUM-Watcher/issues) or email sparklabs2011@gmail.com
+
+---
+
+### 🚀 Next Steps
+
+- **Deploy to Cloud**: See [Deployment Guide](#️-deployment) for Apify setup
+- **Configure Intervals**: Edit check frequency in the code
+- **Add Webhooks**: Set up notifications (coming soon)
+- **Explore API**: Integrate with your own tools
+
+---
+
+
+
 ## 🚀 Core Capabilities
 
 -   **Smart Distillation**: Bypasses "web noise" (ads, headers, footers) to extract the most statistically significant data points from any URL using advanced text analysis.
