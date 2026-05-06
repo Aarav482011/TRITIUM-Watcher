@@ -6,8 +6,6 @@
 
 **TRITIUM-Watcher** is a **professional-grade research tool** designed for autonomous web monitoring, smart content extraction, and real-time alerts. It transforms your AI assistant into a proactive research agent capable of watching the web for you, distilling complex information, and providing visual evidence when specific events occur.
 
-[![License: PolyForm Noncommercial](https://img.shields.io/badge/License-PolyForm%20Noncommercial-blue.svg)](LICENSE)
-[![Commercial License](https://img.shields.io/badge/Commercial-Contact%20for%20License-orange.svg)](LICENSE-COMMERCIAL.md)
   [![Python](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
   [![FastMCP](https://img.shields.io/badge/FastMCP-v2-green.svg)](https://github.com/jlowin/fastmcp)
   [![GitHub stars](https://img.shields.io/github/stars/Aarav482011/TRITIUM-Watcher?style=social)](https://github.com/Aarav482011/TRITIUM-Watcher/stargazers)
@@ -17,10 +15,8 @@
 
 ## 📜 License
 
-- **Free for Personal Use**: PolyForm Noncommercial License 1.0.0
-- **Commercial Use**: [Contact us](LICENSE-COMMERCIAL.md) for pricing
+**AGPLv3**
 
-TRITIUM-Watcher is free for personal, educational, and non-commercial use. If you're using it for business purposes, please [contact us](mailto:www.forestritium.com@gmail.com) for a commercial license.
 
 ## Architecture
 <div align="center">
@@ -35,7 +31,7 @@ Get TRITIUM-Watcher running in under 5 minutes.
 
 **Step 1: Clone and navigate**
 ```bash
-git clone https://github.com/Aarav482011/TRITIUM-Watcher.git
+git clone https://github.com/A-Solo-Engineer/TRITIUM-Watcher.git
 cd TRITIUM-Watcher
 ```
 
@@ -160,7 +156,7 @@ pip install -r requirements.txt --upgrade
 ```
 </details>
 
-**Still stuck?** [Open an issue](https://github.com/Aarav482011/TRITIUM-Watcher/issues) or email sparklabs2011@gmail.com
+**Still stuck?** [Open an issue](https://github.com/A-Solo-Engineer/TRITIUM-Watcher/issues) or email admin.forestritium@gmail.com
 
 ---
 
@@ -241,14 +237,14 @@ This **professional-grade research tool** is designed to meet the requirements f
 
 ### Support
 For any issues, feature requests, or security concerns, please reach out through our support channels:
-- **Support Link**: [Submit an Issue](https://github.com/Aarav482011/TRITIUM-Watcher/issues)
-- **Email**: sparklabs2011@gmail.com
-- **Status Page**: [GitHub Status](https://github.com/Aarav482011/TRITIUM-Watcher)
+- **Support Link**: [Submit an Issue](https://github.com/A-Solo-Engineer/TRITIUM-Watcher/issues)
+- **Email**: admin.forestritium@gmail.com
+- **Status Page**: [GitHub Status](https://github.com/A-Solo-Engineer/TRITIUM-Watcher)
 
 ### Legal
 - **Privacy Policy**: [Read our Privacy Policy](PRIVACY.md)
 - **Terms of Service**: [Read our Terms of Service](TERMS.md)
-- **Contact**: For business inquiries, contact www.forestritium.com@gmail.com
+- **Contact**: For business inquiries, contact admin.forestritium@gmail.com
 
 ---
 *Note:STILL IN DEVELOPMENT PHASE AND IMPROVING RAPIDLY*
